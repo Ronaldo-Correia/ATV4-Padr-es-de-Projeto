@@ -6,6 +6,42 @@ FEITO POR: RONALDO CORREIA e MARCELO DE JESUS
 Este projeto é o **núcleo back-end** de um sistema modular de Internet das Coisas (IoT), que gerencia dispositivos inteligentes (sensores e atuadores) utilizando padrões de projeto **GOF** e princípios **SOLID**.  
 
 ## 📂 Estrutura de Pacotes  
+src/main/java/br/edu/ifba/iot/
+│
+├── Main.java                        # Classe principal do sistema
+│
+├── command/                         # Padrão Command
+│   ├── Command.java
+│   ├── LigarDispositivoCommand.java
+│   ├── DesligarDispositivoCommand.java
+│
+├── core/                            # Núcleo do sistema
+│   ├── events/                      # Padrão Observer
+│   │   ├── Event.java
+│   │   ├── EventType.java
+│   │   ├── EventListener.java
+│   │   ├── EventManager.java
+│   │
+│   ├── devices/                     # Interfaces e classes base de dispositivos
+│       ├── Device.java
+│       ├── Actuator.java
+│       ├── Sensor.java
+│       ├── LightBulbActuator.java
+│       ├── TemperatureSensor.java
+│
+├── factory/                         # Padrões Factory Method / Abstract Factory
+│   ├── DeviceFactory.java
+│   ├── SensorFactory.java
+│   ├── ActuatorFactory.java
+│
+├── strategy/                        # Padrão Strategy
+│   ├── EventResponseStrategy.java
+│   ├── ImmediateResponseStrategy.java
+│   ├── DelayedResponseStrategy.java
+│   ├── ValidatedResponseStrategy.java
+│
+└── singleton/                       # Padrão Singleton
+    └── ConfigurationManager.java
 
 
 ---
