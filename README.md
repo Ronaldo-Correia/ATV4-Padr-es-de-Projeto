@@ -15,6 +15,20 @@ Este projeto é o **núcleo back-end** de um sistema modular de Internet das Coi
 
 ---
 
+## 🛠 Tecnologias Utilizadas
+
+- **Java 21** → linguagem de programação principal
+- **Maven** → gerenciamento de dependências e build
+- **Padrões de Projeto GOF Aplicados**:
+  - **Factory Method / Abstract Factory** → criação de dispositivos
+  - **Singleton** → gerenciador global de configuração
+  - **Observer** → comunicação entre sensores e módulo de eventos
+  - **Command** → encapsulamento de comandos
+  - **Strategy** → diferentes estratégias de resposta a eventos
+  - **Composite** → composição de elementos da interface
+  - **Decorator** → aplicação de temas (modo dia/noite)
+
+---
 ### 💻 Compilando e Executando (Windows)  
 
 ```powershell
