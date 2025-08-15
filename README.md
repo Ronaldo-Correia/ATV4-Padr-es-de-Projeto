@@ -1,6 +1,6 @@
 # 🛠️ Sistema Modular para Gerenciamento de Dispositivos Inteligentes (IoT)
 
-# FEITO POR: RONALDO CORREIA e MARCELO DE JESUS  
+FEITO POR: RONALDO CORREIA e MARCELO DE JESUS  
 
 ## 📌 Descrição  
 Este projeto é o **núcleo back-end** de um sistema modular de Internet das Coisas (IoT), que gerencia dispositivos inteligentes (sensores e atuadores) utilizando padrões de projeto **GOF** e princípios **SOLID**.  
