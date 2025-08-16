@@ -39,4 +39,6 @@ cd caminho\para\ATV4-Padroes-de-Projeto\projeto
 mvn clean install
 
 # 3. Rode a aplicação
-java -cp target\classes br.edu.ifba.iot.Main
+Use o Maven para rodar a aplicação:
+
+mvn exec:java
