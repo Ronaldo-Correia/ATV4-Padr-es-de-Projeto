@@ -1,23 +1,37 @@
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\command\Command.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\command\DesligarDispositivoCommand.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\command\LigarDispositivoCommand.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\config\ConfigManager.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\Actuator.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\Device.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\Sensor.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\types\FanActuator.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\types\LightBulbActuator.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\types\LightSensor.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\types\TemperatureSensor.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\dispositivo.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\events\Event.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\events\EventType.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\factory\DefaultDeviceFactory.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\factory\DeviceFactory.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\factory\FactoryProvider.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\registry\DeviceRegistry.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\strategy\EstrategiaResposta.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\strategy\RespostaComAtraso.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\strategy\RespostaImediata.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\strategy\RespostaValidada.java
-C:\Users\minat\Videos\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\util\Logger.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\command\Command.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\command\DesligarDispositivoCommand.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\command\LigarDispositivoCommand.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\config\ConfigManager.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\Actuator.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\Device.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\Sensor.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\types\FanActuator.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\types\LightBulbActuator.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\types\LightSensor.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\devices\types\TemperatureSensor.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\dispositivo.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\events\Event.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\events\EventListener.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\events\EventManager.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\events\EventType.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\core\events\LogEventListener.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\factory\DefaultDeviceFactory.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\factory\DeviceFactory.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\factory\FactoryProvider.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\logging\CsvLogger.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\logging\JsonLogger.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\logging\Logger.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\logging\PlainLogger.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\Main.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\registry\DeviceRegistry.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\strategy\EstrategiaResposta.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\strategy\RespostaComAtraso.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\strategy\RespostaImediata.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\strategy\RespostaValidada.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\ui\DarkThemeDecorator.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\ui\Label.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\ui\LightThemeDecorator.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\ui\Panel.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\ui\ThemeDecorator.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\ui\ViewComponent.java
+C:\Users\mdj31\OneDrive\Área de Trabalho\ATV4-Padr-es-de-Projeto\projeto\src\main\java\br\edu\ifba\iot\util\Logger.java
