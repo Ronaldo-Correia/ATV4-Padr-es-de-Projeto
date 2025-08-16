@@ -36,7 +36,6 @@ public class Main {
         registry.register((Device) fan);
         registry.register((Device) bulbFromFactory);
 
-        // também vamos manter sua lâmpada para os Commands
         dispositivo lampada = new LightBulbActuator("Lâmpada da sala");
         registry.register((Device) lampada);
 
@@ -54,7 +53,7 @@ public class Main {
 
         // ===== Observer (eventos) =====
         EventManager eventManager = new EventManager();
-        eventManager.subscribe(new LogEventListener()); // já existente
+        eventManager.subscribe(new LogEventListener());
 
         String lightId = ((Device) lightSensor).getId();
         String tempId = ((Device) tempSensor).getId();
@@ -90,7 +89,7 @@ public class Main {
 
         // ===== Logging em múltiplos formatos =====
         Logger plain = new PlainLogger();
-        Logger json = new JsonLogger(); // se preferir sem Gson, use a versão "manual"
+        Logger json = new JsonLogger();
         Logger csv = new CsvLogger();
 
         plain.info("Sistema iniciado.");
